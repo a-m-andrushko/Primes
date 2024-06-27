@@ -1,1 +1,1 @@
-# Primes
+This is a project written in Python on prime numbers topic. It implements NetworkX library to create an evolving network of numbers (both primes and composites), analyses some of their features and aims to prove right key points included in the article -- Complex architecture of primes and natural numbers (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.022806).
